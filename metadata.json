@@ -1,0 +1,6 @@
+{
+  "name": "Enerjetik Akademi - Malzeme Bilimi & Sınav Simülatörü",
+  "description": "Enerjetik Malzemeler ve Malzeme Bilimi interaktif ders platformu, animasyonlu slaytlar, 3D kafes simülasyonları, eğitici mini oyunlar ve vize/final sınav hazırlık merkezi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
